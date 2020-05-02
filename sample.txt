@@ -1,2 +1,4 @@
 hello... i am akshitha 
-this is my first document on git
+this is my first document on github
+i have started to study github
+
